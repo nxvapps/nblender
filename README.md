@@ -39,7 +39,7 @@ We use GitHub's repository for management at this time.
 https://github.com/nxvapps/nblender/pkgs/container/nblender
 
 ### Screenshots
-TODO
+![Blender In a browser](https://raw.githubusercontent.com/nxvapps/nblender/main/screenshots/nblender.png)
 
 ### Credits
 For now we support open source contributors and use only projects with open licenses. If you are going to

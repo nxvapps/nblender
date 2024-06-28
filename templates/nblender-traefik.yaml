@@ -20,7 +20,7 @@ metadata:
   name: nblender-basic-auth
   namespace: nblender
 data:
-  auth: bmNhc3Q6JGFwcjEkVlhGVXJKRkkkNkREV0I0N3lkZm11OFljUzhWSVM1MAoK # User: 'nblender' Password: 'TESTPASSWORD'
+  auth: bmJsZW5kZXI6JGFwcjEkUUlyMDBmV0okU2tnWElsRkgxRS5FTDZnT3RINHNJLgoK # User: 'nblender' Password: 'TESTPASSWORD'
 ---
 apiVersion: apps/v1
 kind: Deployment
